@@ -1,0 +1,12 @@
+#over
+{
+	position:absolute;
+	top:20px;
+	text-align:justify;
+	color:black;
+	font-family:"Georgia";
+}
+body
+{
+	background-image:url("../images/qw.jpg");
+}

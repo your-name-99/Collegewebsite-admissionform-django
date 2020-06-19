@@ -1,0 +1,53 @@
+body
+{
+	background-image:url('../images/wq.jpg');
+}
+#ov
+{
+	background-color:darkkhaki;
+    width:160px;
+	height:35px;
+	line-height:35px;
+	text-align:center;
+	position:absolute;
+	left:530px;
+	top:150px;
+	text-decoration:none;
+	font-family:"Georgia";
+}
+#vi
+{
+	background-color:rgb(223, 136, 23);
+    width:160px;
+	height:35px;
+	line-height:35px;
+	text-align:center;
+	position:absolute;
+	left:810px;
+	top:150px;
+	text-decoration:none;
+	font-family:"Georgia";
+}
+
+a:hover
+{
+	color:white;
+}
+#kk
+{
+	position:absolute;
+	top:230px;
+	text-align:justify;
+	color:black;
+	font-family:"Georgia";
+}
+
+
+
+
+
+
+
+
+
+
